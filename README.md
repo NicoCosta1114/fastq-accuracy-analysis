@@ -20,7 +20,7 @@ It reads a `.fastq` file, calculates the **mean base call accuracy** at each pos
 
 Make sure you have **Python 3** and the required libraries installed:
 
-```bash
+bash
 pip install biopython matplotlib numpy
 
 Then run:
@@ -30,6 +30,7 @@ python fastq_accuracy.py unknown_illumina_2024.fastq
 A graph will be displayed showing the mean accuracy per base position with confidence intervals.
 
 ## Technologies used
+
 - Python 3
 - Biopython
 - NumPy
