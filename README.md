@@ -20,7 +20,8 @@ It reads a `.fastq` file, calculates the **mean base call accuracy** at each pos
 
 Make sure you have **Python 3** and the required libraries installed:
 
-bash
+**bash**
+
 pip install biopython matplotlib numpy
 
 Then run:
