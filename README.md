@@ -30,8 +30,8 @@ python fastq_accuracy.py unknown_illumina_2024.fastq
 A graph will be displayed showing the mean accuracy per base position with confidence intervals.
 
 ## Technologies used
-	•	Python 3
-	•	Biopython
-	•	NumPy
-	•	Matplotlib
+- Python 3
+- Biopython
+- NumPy
+- Matplotlib
 
